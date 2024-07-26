@@ -1,0 +1,4 @@
+server.log
+./logs
+./*.log
+AWSCredentials
